@@ -59,4 +59,4 @@ Virtual environments allow us to have a deterministic and predictable
 ## Resources
 
 - [Pip env](https://pipenv.pypa.io/en/latest/)
-- [PYPI](https://pypi.org/)
+- [PYPI](https://pypi.org/).
